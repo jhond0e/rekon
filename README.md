@@ -1,4 +1,4 @@
- ```
+```
   _____  ______ _  ______  _   _ 
  |  __ \|  ____| |/ / __ \| \ | |
  | |__) | |__  | ' / |  | |  \| |
@@ -9,7 +9,7 @@
                                  
 # Install
 
-`pip3 install -r requirements.txt`
+`sh install.sh`
 
 # Usage
 
