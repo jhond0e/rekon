@@ -7,13 +7,17 @@
  |_|  \_\______|_|\_\____/|_| \_|
 ```
                                  
-# Install
+# Install :
 
 `sh install.sh`
 
-# Usage
+# Usage : 
 
 `python3 rekon.py --cli`
 
 
 /!\ This version is vulnerable to os command injection, fix is coming 
+
+## Credits :
+- [shodan](shodan.io)
+- [httpx](https://github.com/projectdiscovery/httpx)
