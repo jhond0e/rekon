@@ -1,10 +1,7 @@
-# rekon
-Reconnaissance toolkit
-
-## Install
+# Install
 
 `pip3 install -r requirements.txt`
 
-## Usage
+# Usage
 
 `python3 rekon.py --cli`
