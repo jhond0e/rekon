@@ -1,0 +1,8 @@
+sys
+os
+time
+colorama
+termcolor
+pyfiglet
+argparse
+subprocess
