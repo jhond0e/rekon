@@ -11,6 +11,10 @@
 
 `sh install.sh`
 
+Then, configure your shodan API key with :
+
+`shodan init {API_KEY}`
+
 # Usage : 
 
 `python3 rekon.py --cli`
