@@ -14,3 +14,6 @@
 # Usage
 
 `python3 rekon.py --cli`
+
+
+/!\ This version is vulnerable to os command injection, fix is coming 
