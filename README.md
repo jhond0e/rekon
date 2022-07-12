@@ -19,5 +19,5 @@
 /!\ This version is vulnerable to os command injection, fix is coming 
 
 ## Credits :
-- [shodan](shodan.io)
+- [shodan](https://shodan.io)
 - [httpx](https://github.com/projectdiscovery/httpx)
