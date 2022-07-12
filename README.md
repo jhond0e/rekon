@@ -9,15 +9,21 @@
                                  
 # Install :
 
-`sh install.sh`
+```sh
+sh install.sh
+```
 
 Then, configure your shodan API key with :
 
-`shodan init {API_KEY}`
+```sh
+shodan init {API_KEY}
+```
 
 # Usage : 
 
-`python3 rekon.py --cli`
+```sh
+python3 rekon.py --cli
+```
 
 
 /!\ This version is vulnerable to os command injection, fix is coming 
